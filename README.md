@@ -1,5 +1,4 @@
-# pikachu-2024-bb
-
+# receita-2024-bb
 ![](./Captura%20de%20Tela%202024-09-06%20às%2014.51.40.png)
 
 ---
